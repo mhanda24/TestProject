@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21074" started-at="2017-12-01T21:30:55Z" finished-at="2017-12-01T21:31:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21074" started-at="2017-12-01T21:30:55Z" finished-at="2017-12-01T21:31:17Z">
+      <class name="TESTNG.TESTNGFRAMEWORK.DataDriven">
+        <test-method status="PASS" signature="MyTest()[pri:0, instance:TESTNG.TESTNGFRAMEWORK.DataDriven@7eac9008]" name="MyTest" duration-ms="21060" started-at="2017-12-01T16:30:55Z" finished-at="2017-12-01T16:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyTest -->
+      </class> <!-- TESTNG.TESTNGFRAMEWORK.DataDriven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
